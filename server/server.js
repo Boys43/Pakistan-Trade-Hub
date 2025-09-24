@@ -16,7 +16,7 @@ app.use(cors());
 connectdb();
 
 app.get('/', (req, res)=>{
-    res.send("I am Working Bitch!")
+    res.send("I am Working you Stop Looking at me 😡!")
 })
 
 app.listen(PORT, () => {
